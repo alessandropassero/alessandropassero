@@ -34,5 +34,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alessandro-passero&theme=synthwave" alt="Alessandro's GitHub Stats" />
 </a>
 
-<img src="https://profile-counter.glitch.me/alessandro-passero/count.svg" alt="hit counter" align="center">
 
