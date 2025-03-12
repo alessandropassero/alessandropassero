@@ -6,7 +6,7 @@
  
  <h4 align="center">	"Staying true to your path is what really matters" </h4>
 </p>
-<p>👩🏻‍💻 Software Engineer </p>
+<p>👩🏻‍💻 Software Developer </p>
 <p>👩🏻‍🎓 Studied Computer Science at the University of Pegaso, Naples - Italy -</p>
 <p>💭 Currently learning about ...</p>
 
