@@ -27,7 +27,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/alessandropassero/alessandro-passero">
+<a href="https://github.com/alessandropassero/alessandropassero">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandropassero&hide=qml,java&theme=synthwave" />
 </a>
 <a href="https://github.com/alessandropassero/alessandropassero">
