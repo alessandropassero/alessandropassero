@@ -27,11 +27,11 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/alessandro-passero/alessandro-passero">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-passero&hide=qml,java&theme=synthwave" />
+<a href="https://github.com/alessandropassero/alessandro-passero">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandropassero&hide=qml,java&theme=synthwave" />
 </a>
-<a href="https://github.com/alessandro-passero/alessandro-passero">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alessandro-passero&theme=synthwave" alt="Alessandro's GitHub Stats" />
+<a href="https://github.com/alessandropassero/alessandropassero">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alessandropassero&theme=synthwave" alt="Alessandro's GitHub Stats" />
 </a>
 
 
