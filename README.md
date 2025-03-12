@@ -6,7 +6,9 @@
  
  <h4 align="center">	"Staying true to your path is what really matters" </h4>
 </p>
-
+👩🏻‍💻 Software Engineer 
+👩🏻‍🎓 Studied Computer Science at the University of Pegaso, Naples - Italy -
+💭 Currently learning about data analytics
 
 
 ## 🔧 Skills
