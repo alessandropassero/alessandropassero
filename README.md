@@ -8,7 +8,7 @@
 </p>
 <p>👩🏻‍💻 Software Engineer </p>
 <p>👩🏻‍🎓 Studied Computer Science at the University of Pegaso, Naples - Italy -</p>
-💭 Currently learning about data analytics
+<p>💭 Currently learning about ...</p>
 
 
 ## 🔧 Skills
