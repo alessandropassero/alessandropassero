@@ -4,7 +4,7 @@
 
 <p align="center">
  
- <h4 align="center">	"Rimanere fedeli al proprio percorso è ciò che conta davvero." </h4>
+ <h4 align="center">	"Staying true to your path is what really matters" </h4>
 </p>
 
 
