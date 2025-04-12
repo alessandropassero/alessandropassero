@@ -27,7 +27,6 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 
-## &#x1f4c8; GitHub Stats
 
 
 
